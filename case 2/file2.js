@@ -7,4 +7,8 @@ const  comment = {
     comment5: 'Hai juga',
     comment6: 'Haii juga hai jugaa',
     comment7: 'Halooo',
-}
+};
+
+let  count = Object.keys(comment).length;
+
+console.log(count);
